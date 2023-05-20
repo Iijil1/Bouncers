@@ -1,0 +1,9 @@
+{"Tm":"1RB---_0LB0RC_0RD0LD_1LE0RE_1LA1LC","Mirror":true,"Start":{"Steps":27,"Words":["0","1000","100"],"State":"C","Buffer":"11"},"CycleSteps":48}
+{"Tm":"1RB---_0LB0RC_1LD0LE_0RD1RE_1LC0RA","Mirror":false,"Start":{"Steps":28,"Words":["0","1010","1010101"],"State":"E","Buffer":"1"},"CycleSteps":36}
+{"Tm":"1RB---_0LB0LC_1LD1LC_0RE0LE_1RA1RD","Mirror":false,"Start":{"Steps":25,"Words":["0","1011","10100"],"State":"E","Buffer":"10"},"CycleSteps":44}
+{"Tm":"1RB---_0LB0LC_1LD0RE_0RE0LA_1RC1RD","Mirror":false,"Start":{"Steps":616,"Words":["01010101010101010101010101","1100","110011"],"State":"C","Buffer":"01"},"CycleSteps":161}
+{"Tm":"1RB---_0LB0RC_1LD0RD_1LE1RA_1LA1LB","Mirror":false,"Start":{"Steps":24,"Words":["1","1101","110111"],"State":"C","Buffer":"0"},"CycleSteps":36}
+{"Tm":"1RB---_0LB0LC_1RD0LD_1RE1RA_1LB0RC","Mirror":false,"Start":{"Steps":444,"Words":["110110110110110","100100","1001001000"],"State":"E","Buffer":"11"},"CycleSteps":274}
+{"Tm":"1RB---_0LB0RC_1LD0RD_1LE0RE_1LA0LC","Mirror":false,"Start":{"Steps":655,"Words":["10010010010010010010010010010010010010010010","101101","1011011"],"State":"D","Buffer":"0"},"CycleSteps":160}
+{"Tm":"1RB---_0LB0RC_1LD0LD_1RE0LC_0RA1RC","Mirror":false,"Start":{"Steps":607,"Words":["10111011101110111011101110","00010001","000100010001"],"State":"A","Buffer":"110"},"CycleSteps":259}
+{"Tm":"1RB---_0LB0RC_1RD0LE_1LE0RA_1LC1RE","Mirror":false,"Start":{"Steps":8379,"Words":["101010101010101010101010101010101010101010101010101010101010101010101010101010","0101","010101010010010010010010010010010010010010010010010010010010010","010","010010010"],"State":"A","Buffer":"1010"},"CycleSteps":802}
